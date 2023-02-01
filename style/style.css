@@ -1,0 +1,154 @@
+.part1{
+justify-content: space-between;
+display: flex;
+
+padding: 50px;
+
+}
+.par{
+    padding-top: 20px;
+    gap: 200px;
+}
+.or{
+    background-color: orange;
+    color: aliceblue;
+    border: 0;
+}
+.log{
+    border: 0;
+}
+.all{
+    background-color: antiquewhite;
+}
+.one img{
+
+height: 600px;
+padding-left: 120px;
+padding-top: 50px;
+
+}
+.button{
+    
+    border: 0;
+    font-size: 18px;
+    color: aliceblue; 
+    padding-left: 650px;}
+
+
+.hhh{
+    padding-left: 550px;
+}
+.ppp{
+    padding-left: 330px;
+}
+.four{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 10px;
+    
+    
+}
+.fourwr{
+    padding-left: 70px;
+    padding-top: 250px;
+}
+.fourbt{
+    border: 0;
+    background-color: orange;
+    height: 40px;
+    color: aliceblue;
+width: 40;
+
+
+}
+.fourall{
+    display: flex;
+    padding-left: 200px;
+    padding-top: 50px;
+}
+
+
+.spon{
+    
+    
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 100px;
+}
+
+.main{
+    
+    padding-left: 600px;
+    padding-top: 40px;
+    padding-top: 100px;
+    
+}
+
+
+
+
+.div{
+    padding-left: 100px;
+}
+.mobile{
+    padding-left: 105px; 
+    padding-top: 45px
+    ;
+}
+.drag{
+    padding-left: 105px;
+    padding-top: 10px;
+}
+.awesom{
+padding-left: 105px;
+    padding-top: 10px;
+
+}
+.super{
+    padding-left: 105px;
+    padding-top: 10px;
+
+}
+.girl{ 
+    display: flex;
+    justify-content: space-between;
+    padding-top: 70px;
+}
+.imgcls{
+    padding-right: 100px;
+}
+.yr{
+    
+    color: aliceblue;
+    
+    padding-left: 700px;
+    position: 100px;q`
+}
+.clr{
+    background-color: orange;
+    border: 0;
+}
+.some{
+    padding-left: 100px;
+    padding-top: 100px;
+}
+.nav{
+    padding-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 100px;
+}
+
+.number{
+    
+    font-size: 30px;
+    
+}
+
+
+.footer{
+    background-color: bisque;
+    height: 50px;
+    padding-left: 500px;
+    padding-top: 40px;
+}
